@@ -4,7 +4,6 @@ exports.config = {
     // directConnect: true,
     seleniumAddress: 'http://selenium_server:4444/wd/hub',
     framework: 'jasmine2',
-
     specs: ['specs/google_search-spec.js'],
     baseUrl: 'https://www.google.com.br',
  
