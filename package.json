@@ -1,0 +1,23 @@
+{
+  "name": "ng-calc",
+  "version": "1.0.0",
+  "description": "projeto ng-calc",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js",
+    "wdup": "webdriver-manager update"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Kprado",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.1",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
